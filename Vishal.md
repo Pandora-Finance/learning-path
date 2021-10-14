@@ -5,7 +5,7 @@
 - [solidity docs](https://docs.soliditylang.org/en/v0.8.7/)
 - [crpyto-zombies](https://cryptozombies.io/)
 
-## Truffle 
+## Truffle
 
 - [Truffle docs](https://www.trufflesuite.com/docs)
 - [Youtube - Dapp University](https://www.youtube.com/watch?v=pTZVoqBUjvI)
@@ -48,3 +48,8 @@
 - [Rarible docs](https://docs.rarible.org/)
 - [Rarible gitHub](https://github.com/rarible)
 - [Rarible discord](https://discord.gg/zqsZsEWBbN)
+
+## Steps to deploy code on AWS (for dev)
+
+- [Setting load balncer and updating code](https://gist.github.com/ayush0x00/01d936551692b13dff28e873c9d17bc9)
+- [Installing ssl certificate](https://gist.github.com/ayush0x00/899c2704eaaf6a8b0536505a3761bf84)
