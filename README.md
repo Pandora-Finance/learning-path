@@ -1,4 +1,4 @@
-# lerning-path
+# Learning Paths
 
 ## Contents
 - [How to Deploy React App on GitHub Pages](#how-to-deploy-react-app-on-github-pages)
