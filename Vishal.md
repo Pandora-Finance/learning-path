@@ -53,3 +53,7 @@
 
 - [Setting load balncer and updating code](https://gist.github.com/ayush0x00/01d936551692b13dff28e873c9d17bc9)
 - [Installing ssl certificate](https://gist.github.com/ayush0x00/899c2704eaaf6a8b0536505a3761bf84)
+
+## React
+
+- [Hosting React App on GitHub Pages using GoDaddy Custom Domain](https://github.com/Pandora-Finance/learning-path/blob/main/hostingodaddy.md)
